@@ -1,0 +1,12 @@
+{
+  "mcp_server_url": "https://cockroachlabs.cloud/mcp",
+  "cluster_id": "your-cluster-id-here",
+  "auth_method": "api_key",
+  "api_key": "your-cockroachdb-api-key-here",
+  "use_vertex_ai": true,
+  "vertex_ai_project": "vertex-model-runners",
+  "vertex_ai_region": "global",
+  "use_vector_search": false,
+  "database_connection_string": "postgresql://user:password@host:26257/defaultdb?sslmode=verify-full",
+  "verbose": false
+}
