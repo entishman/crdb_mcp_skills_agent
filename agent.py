@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CockroachDB Intelligent Agent
+CockroachDB Intelligent Agent Extraordinaire (CRDB-AIE) - Query Learning + Vector Search
 
 This agent uses Claude API to intelligently handle CockroachDB tasks with
 query-based learning to get smarter over time.
